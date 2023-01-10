@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="sign_up">Don\'t have an account? <i><b> <u>Sign Up</u></b></i></string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="sign_in">Already have an account? <i><u><b>Sign In</b></u></i>.</string>
+    <string name="register">REGISTER</string>
+    <string name="pick_image">PICK IMAGE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="input_message">input message</string>
+</resources>
